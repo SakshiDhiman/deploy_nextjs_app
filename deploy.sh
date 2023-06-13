@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/ubuntu/deploy_nextjs_app
+cd /var/www/html/deploy_nextjs_app
 git pull origin master
 npm install &&
 npm run build &&
