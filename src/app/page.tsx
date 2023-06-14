@@ -19,7 +19,7 @@ export default function Home() {
         />
       </div>
       <h1 className={inter.className}>
-           Welcome
+           Welcome Here
           </h1>
 
       <div className={styles.center}>
